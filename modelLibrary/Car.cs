@@ -8,6 +8,7 @@ namespace modelLibrary
 {
     public class Car
     {
+
         private string model;
 
         private string color;
